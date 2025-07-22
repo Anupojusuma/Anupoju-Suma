@@ -1,8 +1,9 @@
 My name is Anupoju Suma and I'm a BTech 4th-year student a bit interested about Machine Learning, AI, and Web Development.
 Based on my knowledge during practical lab sessions and internship here are my skils and projects.
 * Skills & Tools
+  
  1.Machine Learning
- 2.Web Development: HTML, CSS, JavaScript
+ 2.Web Development: HTML, CSS, JavaScript,react js
  3.Programming Languages: Python, C, Java
  4. Data Management:SQL
 * Projects
